@@ -6,4 +6,5 @@ The show is only available to members of [EricElliottJS.com](https://ericelliott
 
 ## Show Notes
 
+* [Episode Two: Writing flexible component tests](2016-03-13-episode-2.md)
 * [Episode One: Live TDD with React](2016-03-13-episode-1.md)
