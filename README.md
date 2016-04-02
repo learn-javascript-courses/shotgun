@@ -6,5 +6,6 @@ The show is only available to members of [EricElliottJS.com](https://ericelliott
 
 ## Show Notes
 
+* [Episode Three: Looping Over Child Components](https://github.com/learn-javascript-courses/shotgun/blob/master/2016-03-20-episode-3.md)
 * [Episode Two: Writing flexible component tests](2016-03-13-episode-2.md)
 * [Episode One: Live TDD with React](2016-03-13-episode-1.md)
